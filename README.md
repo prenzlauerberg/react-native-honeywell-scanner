@@ -1,21 +1,21 @@
-# react-native-honeywell-scanner-v3
+# rn-honeywell-barcode-scanner
 
 This module is fork of react-native-honeywell-scanner-v2.
-There is only one reason for this fork, 
+There is only one reason for this fork,
 
 To solve the following issue by updating the deprecated statements, and then pushing it to npm.
 All the work(s) belong(s) to the original repo(s) developer(s).
 
-Best Regards, 
+Best Regards,
 Onur
 
 ## Getting started
 
-`$ npm install react-native-honeywell-scanner-v2 --save`
+`$ npm install rn-honeywell-barcode-scanner --save`
 
 ## Usage
 ```javascript
-import HoneywellScanner from 'react-native-honeywell-scanner-v2';
+import HoneywellScanner from 'rn-honeywell-barcode-scanner';
 
 ...
 
