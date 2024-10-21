@@ -1,8 +1,8 @@
 {
-  "name": "react-native-honeywell-scanner-v3",
+  "name": "rn-honeywell-barcode-scanner",
   "title": "React Native Honeywell Scanner-v3",
-  "version": "1.2.0",
-  "description": "Bridge to use the Honeywell scanner",
+  "version": "1.0.0",
+  "description": "Bridge to use the Honeywell scanner - fixed gradle classifier issue",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -18,7 +18,7 @@
     "react-native",
     "honeywell"
   ],
-  "author": "Onur <onuryardimci.21@gmail.com>",
+  "author": "prenzlauerberg <onuryardimci.21@gmail.com>",
   "bugs": {
     "url": "https://github.com/prenzlauerberg/react-native-honeywell-scanner/issues"
   },
