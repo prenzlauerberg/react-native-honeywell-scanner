@@ -1,6 +1,13 @@
-# react-native-honeywell-scanner-v2
+# react-native-honeywell-scanner-v3
 
-This module is fork of react-native-honeywell-scanner.
+This module is fork of react-native-honeywell-scanner-v2.
+There is only one reason for this fork, 
+
+To solve the following issue by updating the deprecated statements, and then pushing it to npm.
+All the work(s) belong(s) to the original repo(s) developer(s).
+
+Best Regards, 
+Onur
 
 ## Getting started
 
