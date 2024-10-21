@@ -32,6 +32,7 @@
   },
   "devDependencies": {
     "react": "18.*",
-    "react-native": "0.*"
+    "react-native": "0.*",
+    "typescript": "^5.6.3"
   }
 }
